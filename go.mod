@@ -1,4 +1,4 @@
-module github.com/snovichkov/zap-gelf
+module github.com/estw272/zap-gelf
 
 go 1.12
 
